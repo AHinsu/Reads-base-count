@@ -6,6 +6,6 @@ The fastq files should be gzipped and should have the naming convention as 'Samp
 
 Usage:
 Put the script in the folder where all the fastq.gz files are present along with prinseq-lite.pl script (not required in case it is accessible globally).
-Run ./read-base-count-fastq.sh
+Run the script by giving the command  ./read-base-count-fastq.sh
 
 That should create a tab-delimited file named read-base-count.txt containing the information.
